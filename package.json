@@ -1,0 +1,9 @@
+{
+  "name": "gharpoch",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install:all": "npm --prefix frontend install --include=dev",
+    "build": "npm --prefix frontend run build"
+  }
+}
