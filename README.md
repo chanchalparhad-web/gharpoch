@@ -27,11 +27,14 @@
 
 | Role / भूमिका | Name | Login Phone | Password |
 | :--- | :--- | :--- | :--- |
-| **Central Admin (प्रशासक)** | GharPoch Operations | `9999999999` | `admin123` |
+| **Central Admin (प्रशासक)** | GharPoch HQ Operations | `9999999999` | `admin123` |
 | **Hotel (हॉटेल साई कृपा)** | Hotel Sai Krupa (Karodi) | `9822011111` | `hotel123` |
+| **Hotel (हॉटेल माऊली)** | Hotel Mauli (Karodi) | `9822088888` | `hotel123` |
+| **Hotel (हॉटेल ७/१२)** | Hotel 7/12 (Karodi Toll Plaza) | `7972976954` | `hotel123` |
 | **Hotel (श्री फॅमिली रेस्टॉरंट)** | Shree Family Restaurant (Karodi) | `9822022222` | `hotel123` |
-| **Delivery Rider (रायडर)** | Sachin Gaikwad (Karodi) | `9766033333` | `rider123` |
-| **Delivery Rider (रायडर)** | Vikas Chavan (Asegaon) | `9766044444` | `rider123` |
+| **Hotel (मराठा दरबार)** | Hotel Maratha Darbar (Karodi) | `9822098881` | `maratha123` |
+| **Delivery Rider (रायडर १)** | Sachin Gaikwad (Karodi, MH-20-DZ-1428) | `9766033333` | `rider123` |
+| **Delivery Rider (रायडर २)** | Vikas Chavan (Asegaon, MH-20-EF-9872) | `9766044444` | `rider123` |
 | **Customer (ग्राहक)** | Rahul Deshmukh | `9890055555` | `customer123` |
 
 ---
