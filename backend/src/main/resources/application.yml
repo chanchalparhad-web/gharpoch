@@ -7,9 +7,9 @@ spring:
   application:
     name: gharpoch-backend
   datasource:
-    url: ${SPRING_DATASOURCE_URL:jdbc:postgresql://localhost:5432/gharpoch}
-    username: ${SPRING_DATASOURCE_USERNAME:postgres}
-    password: ${SPRING_DATASOURCE_PASSWORD:chanchal}
+    url: ${SPRING_DATASOURCE_URL:jdbc:postgresql://ep-gentle-morning-b8vmn3pa-pooler.c-14.us-east-1.aws.neon.tech/neondb?sslmode=require}
+    username: ${SPRING_DATASOURCE_USERNAME:neondb_owner}
+    password: ${SPRING_DATASOURCE_PASSWORD:npg_k2WeYmqJ0Xtv}
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
